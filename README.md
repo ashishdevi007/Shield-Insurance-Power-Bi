@@ -31,7 +31,7 @@ My task was to assist Shield Insurance in making data-driven decisions by analyz
 
 
 
-![Shiled Insurance Data Model](https://github.com/Arbu7841/Shield-Insurance/blob/main/Data%20Model.png)
+![Shiled Insurance Data Model](https://github.com/ashishdevi007/Shield-Insurance-Power-Bi/blob/main/Data%20Model)
 
 
 ## Dashboard Overview - 
@@ -54,7 +54,7 @@ My task was to assist Shield Insurance in making data-driven decisions by analyz
 ### **Sales Mode Analysis -** Showcase sales performance metrics across different modes, including a revenue trend chart highlighting the sales channel that generated the highest revenue percentage.
 
 
-![sales view analysis]
+
 
 
 
